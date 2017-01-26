@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\pre-dexed\debug\classes-8fe97ce757d676cc0f628a46e2b937a3b5163367.jar" />
+    </item>
+    <item
+        jar="C:\Users\Denis\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-dfcb4a1e3d963166288e9e7656e172237f85a1a4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\pre-dexed\debug\classes-965399d7ff0a88a5281517112a0032da354f2700.jar" />
+    </item>
+    <item
+        jar="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\pre-dexed\debug\classes-a67b19ff81297e63f7638e708ee89610fb11bf75.jar" />
+    </item>
+    <item
+        jar="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\pre-dexed\debug\classes-201bfddc69acf9e717dc53185bf9a98fc7f0388c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\pre-dexed\debug\classes-be7681b0c2c566ad6bc8cdf3696511e8d988cf64.jar" />
+    </item>
+    <item
+        jar="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\pre-dexed\debug\classes-27e94df95fb9f9ac83fbaa3a433dddc8cc035e58.jar" />
+    </item>
+    <item
+        jar="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\pre-dexed\debug\classes-a750137a984e52064e912c898b0fb498842f41b1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="62209cacb78ffe64f71ed8527fd08d8fbb9fd433">
+        <dex dex="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\pre-dexed\debug\classes-671fec1e81a4d41162c808ffa632cd9dc82e1e64.jar" />
+    </item>
+    <item
+        jar="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\pre-dexed\debug\classes-5b74ed94637f59d143600e4c280a18530b371d3c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\pre-dexed\debug\classes-89aed9beb34e4659302e98689087d370412f1d5a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\pre-dexed\debug\classes-5234bab6eaa69046d90984a1154bd14ee191554c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\pre-dexed\debug\classes-08b39094cb1cb355f25c186e8aae3a3d9f57fc9e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\pre-dexed\debug\classes-8bbb511d1f98df3780353a7af7db1ef0a25baf70.jar" />
+    </item>
+    <item
+        jar="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\libs\gideros.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="54c54a1a3b58c480506597801bdf9ac9d87b7275">
+        <dex dex="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\pre-dexed\debug\gideros-bea206816a2cac657b992150e8a7121ad00ecea7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\pre-dexed\debug\classes-4955ca7d2a352f1d571fdaabe3c8cfc0fc339dca.jar" />
+    </item>
+    <item
+        jar="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\pre-dexed\debug\classes-dabed18b359cfdd8de545ca4400a187b504afb17.jar" />
+    </item>
+    <item
+        jar="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\pre-dexed\debug\classes-89bbd410078604284dbf3aad87b5ce788b2f1e2a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\pre-dexed\debug\classes-37414034aefde18cfe2fb5945b9ee7c84d17c440.jar" />
+    </item>
+    <item
+        jar="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-acd4c468c4653825cbaa6c7885ef133c6fbfdae0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-94da59c31c25c90d54b398dc4fe87a88491d9e78.jar" />
+    </item>
+    <item
+        jar="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\pre-dexed\debug\classes-73f2ae9edb42348067eeff7a7eb71fa0cbce6abf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\pre-dexed\debug\classes-9aff2a802d8b45cc7d0347b08db11f67f7c01cb3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\pre-dexed\debug\classes-ee81bb52ace374d85610e51e7e048f399f864ae3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\pre-dexed\debug\classes-c24f523d0bb33358b0f54771868af8c243711084.jar" />
+    </item>
+    <item
+        jar="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\pre-dexed\debug\classes-1511681dd7a08b4dae0d0aa83ff456bef0f5ffaf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\pre-dexed\debug\classes-758db1fc479304331cc4fade6ecf907fe45b1a49.jar" />
+    </item>
+    <item
+        jar="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\pre-dexed\debug\classes-8a118d37db42dbd71cdfd6cd12568f7c5c37dbfe.jar" />
+    </item>
+    <item
+        jar="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\pre-dexed\debug\classes-40dc38706d461d5b9bdde9e8c20d4d5070cc61e6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\pre-dexed\debug\classes-7cb95a6640cae146294fe9d38c4fb28a314b0c7b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\Denis\Desktop\Another one\SlingShot MkA\app\build\intermediates\pre-dexed\debug\classes-8c476af7d17d297c5831bbb4c18cc87c16cae09b.jar" />
+    </item>
+
+</items>
